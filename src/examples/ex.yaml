@@ -1,0 +1,16 @@
+# Dictionary
+name: John
+age: 30
+gender: male
+
+# Map Objects
+person:
+  name: John
+  age: 30
+  gender: male
+
+# Collection / List
+charactors:
+  - Anakin
+  - Obi-Wan
+  - Padme
