@@ -1,0 +1,5 @@
+- name: apple
+  color: red
+  weight: 100g
+- name: orange
+- name: mango
