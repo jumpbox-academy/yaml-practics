@@ -27,9 +27,58 @@ person:
 
 ## Collection / List
 
+At root level
+
+```yaml
+- Anakin
+- Obi-Wan
+- Padme
+```
+
+In a key
+
 ```yaml
 charactors:
   - Anakin
   - Obi-Wan
   - Padme
+```
+
+List Obj
+
+```yaml
+charactors:
+  - name: Anakin
+    role: Jedi
+  - name: Obi-Wan
+    role: Jedi
+  - name: Padme
+    role: A princess
+```
+
+Single line list
+
+```yaml
+charactors: [ "Anakin", "Obi-Wan", "Padme" ]
+```
+
+## Combination map/obj/list
+
+```yaml
+charactors:
+  - name: Anakin
+    role: Jedi
+    location:
+      lat: 100.10
+      long: 13.45
+  - name: Obi-Wan
+    role: Jedi
+    location:
+      lat: 101.10
+      long: 15.45
+  - name: Padme
+    role: A princess
+    location:
+      lat: 110.10
+      long: 15.45
 ```
