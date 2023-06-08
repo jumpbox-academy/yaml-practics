@@ -4,7 +4,7 @@ For newbies can practicing and improve skill.
 
 Instruction:
 
-1. Fork this repository to you account.
+1. Fork this repository to your account.
 2. Follow the insruction in each assignment.
 
 ## Examples
