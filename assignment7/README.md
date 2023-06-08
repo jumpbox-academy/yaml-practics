@@ -1,8 +1,11 @@
-Now, update the /home/bob/playbooks/practice.yaml file with a dictionary in dictionary.
+# Assignment 7
+
+Now, update the `practice.yaml` file with a dictionary in dictionary.
 
 Add a dictionary named address to add the address information in this file.
 
-Key/Property Value
-city edison
-state new jersey
-country united states
+| Key/Property | Value         |
+| ------------ | ------------- |
+| city         | edison        |
+| state        | new jersey    |
+| country      | united states |
